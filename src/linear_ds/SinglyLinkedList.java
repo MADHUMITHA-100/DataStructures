@@ -53,7 +53,7 @@ class Methods{
 			head=newnode;
 		}
 		else if(pos==0) {
-			insertAtbeg(data);
+	 		insertAtbeg(data);
 		}
 		else {
 			for(int i=0;i<pos;i++) {
